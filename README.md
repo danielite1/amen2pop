@@ -23,5 +23,6 @@
 <p align="left"> <font color="black" size="5" face="Arial"> H<sub>2</sub>SO<sub>4</sub> </font> </p>
 <br>
 <p align="left"> <font color="black" size="5" face="Arial"> x*x=x<sup>2</sup> </font> </p>
-
+    </body>
+ 
   </html>
